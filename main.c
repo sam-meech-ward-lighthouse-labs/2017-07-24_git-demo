@@ -7,6 +7,7 @@ int main(int argc, const char * argv[]) {
         }
         
         printf("We did it!!!\n\n");
+        printf("Sam is 😎");
     }
     return 0;
 }
