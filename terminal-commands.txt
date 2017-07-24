@@ -1,0 +1,38 @@
+ 7964  Jul 24 11:47 am git init
+ 7965  Jul 24 11:47 am git status
+ 7966  Jul 24 11:47 am touch main.c
+ 7967  Jul 24 11:47 am open main.c
+ 7968  Jul 24 11:48 am git status
+ 7969  Jul 24 11:50 am git add main.c 
+ 7970  Jul 24 11:50 am git status
+ 7971  Jul 24 11:52 am git commit -m "added a main file with boilerplate c code"
+ 7972  Jul 24 11:54 am git log
+ 7973  Jul 24 11:56 am git branch
+ 7974  Jul 24 11:57 am git branch someCoolFeature
+ 7975  Jul 24 11:57 am git branch
+ 7976  Jul 24 11:58 am git checkout someCoolFeature
+ 7977  Jul 24 11:58 am git branch
+ 7978  Jul 24 11:59 am git status
+ 7979  Jul 24 12:00 pm git commit -am "Add the start of a fizz buzz algorithm"
+ 7980  Jul 24 12:00 pm git status
+ 7981  Jul 24 12:00 pm git branch
+ 7982  Jul 24 12:00 pm git checkout master
+ 7983  Jul 24 12:01 pm git branch
+ 7984  Jul 24 12:01 pm git merge someCoolFeature
+ 7985  Jul 24 12:04 pm git remote add origin https://github.com/sam-meech-ward-lighthouse-labs/2017-07-24_git-demo.git
+ 7986  Jul 24 12:04 pm git push -u origin master
+ 7987  Jul 24 12:06 pm git push
+ 7988  Jul 24 12:08 pm git pull
+ 7989  Jul 24 12:11 pm git status
+ 7990  Jul 24 12:11 pm git commit -am "Sam is 😎"
+ 7991  Jul 24 12:11 pm git push
+ 7992  Jul 24 12:12 pm git pull
+ 7993  Jul 24 12:12 pm git status
+ 7994  Jul 24 12:14 pm git add main.c 
+ 7995  Jul 24 12:14 pm git commit -m "Merge conflict resolved"
+ 7996  Jul 24 12:14 pm git status
+ 7997  Jul 24 12:15 pm cd ..
+ 7998  Jul 24 12:15 pm cd Demo1
+ 7999  Jul 24 12:16 pm touch feature.c
+ 8000  Jul 24 12:16 pm open feature.c -a Xcode
+
